@@ -64,7 +64,7 @@ sudo dnf install git
 ## Clone the Repo-
 ```bash
 git clone https://github.com/Rustam-Singh-Bhadouriya/python-playlist.git
-cd python-youtube-playlist
+cd python-playlist
 ```
 
 # visit youtube and like and bookmark our playlist
